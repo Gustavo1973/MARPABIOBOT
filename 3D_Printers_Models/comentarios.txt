@@ -4,7 +4,7 @@ AdaptadorSonar - Soporte parad un medidor de distancia ultrasónico orientable.
 Bandeja - Base de montaje para un Arduino Due.
 ChasisUniversal - Chasis principal del robot con espacio para los motores y anclajes diversos.
 Llanta2 y Llanta4 - Dos modelos de ruedas.
-PinzaBase - Soporte para pinzas con dos ancljes universales.
+PinzaBase - Soporte para pinzas con dos anclajes universales. ¡HAY UNA SERIE DE VERSIONES MODIFICADAS EN EL FICHERO COMPRIMIDO!
 PinzaLibre - Mitad de la pinza movida por la que va sujeta al servomotor.
 PinzaServo - Mitad de la pinza sujeta al servomotor.
 PinzaSuperior - Tapa del soporte para la pinza.
